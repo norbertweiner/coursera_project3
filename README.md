@@ -6,8 +6,7 @@ The class project for Coursera Cleaning Data was to read the "Human Activity Rec
 
 * Download the script
 * Confirm packages dplr and Rcurl are properly installed
-* Run the script
->Script will automatically download and uncompress the dataset, and then run the analysis 
+* Run the script. Script will automatically download and uncompress the dataset, and then run the analysis 
 * Check the output file tidy.csv in your R working directory 
 
 ### The codebook
