@@ -60,4 +60,4 @@ tidy<-aggregate(.~subject_id + activity,data = data,FUN = mean)
 tidy<-arrange(tidy,subject_id,activity)
 
 #write the tidy data to the directory
-write.csv(tidy,"tidy.csv",row.names = FALSE)
+write.table(tidy,"tidy.txt",row.names = FALSE,sep = "\t")
