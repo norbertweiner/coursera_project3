@@ -42,4 +42,4 @@ Therefore, the data files in the "Inertial Signals" folders were ignored.
 4. Add activity and subject id columns to the test data and train data. 
 5. Combine train data and test data.
 6. Calcualte mean value for each variable based on subject id and activity
-7. Output a tidy.csv file. 
+7. Output a tidy.txt file delimited by tab. 
