@@ -29,6 +29,11 @@ where 70% of the volunteers was selected for generating the training data and 30
 
 * y_test.txt: A vector of 2947 integers, denoting the ID of the activity related to each of the observations in X_test.txt.
 
+###Measurements Variables
+
+* Check the Measurement.txt file. All the variables are in the file. 
+* In tidy.txt, the mean of each variable for each subject and activity are calculated. 
+
 ###Data that were not used
 
 This analysis was performed using only the files above, and did not use the raw signal data. 
